@@ -1,0 +1,36 @@
+
+.column-container {
+    border: 2px solid gray;
+    align-content: center;
+    padding: 1em;
+    
+}
+
+.column-header {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 4em;
+   
+    
+}
+
+.column-header img {
+    margin-right: 1em;
+    width: 3em;
+}
+
+.column {
+    margin-top: 1.5em;
+}
+
+.column-header .title {
+    flex: 1
+}
+
+
+
+
